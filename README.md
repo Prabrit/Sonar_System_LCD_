@@ -7,7 +7,7 @@ This repository contains the source code, libraries, and assets for an Arduino-b
 3. LCD6102 Display (Product link: https://amzn.in/d/7YEIaDE)
 4. Ultrasonic Distance Sensor (Product link: https://amzn.in/d/8qInvt8)
 5. Potentiometer(10KΩ) (Product link: https://amzn.in/d/3O1snzP)
-* Approx Cost - > 3500
+* Approx Cost - > 3500 rs
    
 ## Circuit Diagram :
 In following Circuit diagram pins are connected with arduino according to the code and arduino configuration . Output pin number can be modify by changing the provided code :-) .
