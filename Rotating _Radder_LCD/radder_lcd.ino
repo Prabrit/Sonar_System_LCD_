@@ -9,7 +9,7 @@ const int trigPin = 7;
 const int echoPin = 5;
 const int servo = 9;
 
-float distanceCm, DistanceSec,duration;
+float distanceCm, duration;
  
 void setup() {
 myservo.attach(servo); 
@@ -36,8 +36,7 @@ distanceCm= duration*0.034/2;
 
 lcd.setCursor(0,0);
 lcd.print("Distance: "); 
-lcd.print(distanceCm); 
-//lcd.print(" cm "); 
+lcd.print(distanceCm);  
 delay(80);
 lcd.setCursor(0,1);
 lcd.print("Angle : ");
@@ -60,7 +59,6 @@ distanceCm= duration*0.034/2;
 lcd.setCursor(0,0); 
 lcd.print("Distance: "); 
 lcd.print(distanceCm); 
-//lcd.print(" cm ");
 delay(80);
 lcd.setCursor(0,1);
 lcd.print("Angle : ");
