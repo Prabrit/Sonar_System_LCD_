@@ -12,7 +12,8 @@ This repository contains the source code, libraries, and assets for an Arduino-b
 ## Circuit Diagram :
 In following Circuit diagram pins are connected with arduino according to the code and arduino configuration . Output pin number can be modify by changing the provided code :-) .
 
-![image](https://github.com/user-attachments/assets/e6c0536e-c09c-4247-8753-e8a2406e17d0)
+![image](https://github.com/user-attachments/assets/9111794f-67f1-4457-abbd-8f9d039b0261)
+
 
 ## Project Image :
 ![image](https://github.com/user-attachments/assets/977e22c8-d256-4c2b-9a47-cf3ae2c3e388)
